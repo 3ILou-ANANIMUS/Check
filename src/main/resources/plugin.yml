@@ -1,0 +1,9 @@
+name: SCheck
+version: '${project.version}'
+main: org.ru.scheck.SCheck
+author: SpaceStudio
+api-version: '1.16'
+
+commands:
+  check:
+  mod:

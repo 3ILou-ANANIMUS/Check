@@ -1,0 +1,9 @@
+name: SCheck
+version: '1.0-SNAPSHOT'
+main: org.ru.scheck.SCheck
+author: SpaceStudio
+api-version: '1.16'
+
+commands:
+  c:
+  mod:

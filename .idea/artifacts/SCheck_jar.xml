@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SCheck:jar">
+    <output-path>$USER_HOME$/OneDrive/Рабочий стол/Сборки/Тест плагинов/plugins</output-path>
+    <root id="archive" name="SCheck.jar">
+      <element id="module-output" name="SCheck" />
+    </root>
+  </artifact>
+</component>
